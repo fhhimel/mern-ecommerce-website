@@ -8,6 +8,7 @@ A simple responsive eCommerce website with MERN.
 
 ![App Screenshot1](https://github.com/fhhimel/mern-ecommerce-website/blob/main/preview_1.PNG?raw=true)
 ![App Screenshot2](https://github.com/fhhimel/mern-ecommerce-website/blob/main/preview_2.PNG.PNG?raw=true)
+![App Screenshot3](https://github.com/fhhimel/mern-ecommerce-website/blob/main/preview_3.PNG?raw=true)
 ![App Screenshot4](https://github.com/fhhimel/mern-ecommerce-website/blob/main/preview_4.PNG?raw=true)
 ![App Screenshot5](https://github.com/fhhimel/mern-ecommerce-website/blob/main/preview_5.PNG?raw=true)
 ![App Screenshot6](https://github.com/fhhimel/mern-ecommerce-website/blob/main/preview_6.PNG?raw=true)
